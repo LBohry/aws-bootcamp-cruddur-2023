@@ -3,7 +3,7 @@
     "AlarmDescription": "This alarm would be triggered if the daily estimated charges exceeds 3$",
     "ActionsEnabled": true,
     "AlarmActions": [
-        "arn:aws:sns:eu-west-3:654654148399:billing-alarm-test-1"
+        "arn:aws:sns:eu-west-3:TEST_ACC_ID:billing-alarm-test-1"
     ],
     "EvaluationPeriods": 1,
     "DatapointsToAlarm": 1,
